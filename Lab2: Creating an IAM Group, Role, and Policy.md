@@ -71,3 +71,14 @@ This lab guides you through creating an AWS Identity and Access Management (IAM)
 - **IAM Group**: A collection of IAM users that share the same permissions, simplifying management.
 - **IAM Role**: An entity with permissions that can be assumed by AWS services or users, often used for temporary access.
 - **IAM Policy**: A JSON document defining permissions for users, groups, or roles.
+
+## JSON Format
+```json
+{
+   "group_name": "", 
+   "role_name": "",
+   "policy_arn": "", 
+}
+```
+
+
