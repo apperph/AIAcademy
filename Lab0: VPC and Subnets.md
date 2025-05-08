@@ -153,14 +153,7 @@ Copy and fill in the JSON template below with the resource IDs from your setup, 
 
 ```
 {
-   "vpc_id": "",
-   "private_subnet_a_id": "",
-   "private_subnet_b_id": "",
-   "public_subnet_a_id": "",
-   "public_subnet_b_id": "",
-   "internet_gateway_id": "",
-   "public_route_table_id": "",
-   "private_route_table_id": ""
+   "vpc_id": ""
 }
 ```
 
