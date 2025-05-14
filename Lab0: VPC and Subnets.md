@@ -153,7 +153,8 @@ Copy and fill in the JSON template below with the resource IDs from your setup, 
 
 ```
 {
-   "vpc_id": ""
+   "vpc_id": "",
+   "region": ""
 }
 ```
 
