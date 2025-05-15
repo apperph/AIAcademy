@@ -222,8 +222,7 @@ Please copy the JSON to the textbox on the left side and fill in the required AW
 ```
 {
    "ec2_instance_id": "",
-   "ssm_role_arn": "",
-   "key_pair_name": ""
+   "region": ""
 }
 ```
 
