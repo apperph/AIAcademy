@@ -113,7 +113,7 @@ By creating a security group rule for the App Server that allows SSH traffic onl
 4-b. Understanding Security Groups:
 
 - Security groups operate at the **instance level**.
-- They function at **Layer 5 **of the **OSI model**, enabling **stateful** inspection of network traffic. This means that once a connection is established, subsequent traffic from the same connection is **allowed without requiring additional rules**.
+- They function at **Layer 5** of the **OSI model**, enabling **stateful** inspection of network traffic. This means that once a connection is established, subsequent traffic from the same connection is **allowed without requiring additional rules**.
 - Security groups employ an **implicit deny policy**, meaning that any traffic not explicitly permitted by an inbound rule is blocked.
 
 
