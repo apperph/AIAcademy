@@ -196,7 +196,8 @@ Please copy the following JSON to the textbox and fill in the required AWS resou
    "appserver_security_group_id": "",
    "private_nacl_id": "",
    "private_route_table_id": "",
-   "public_route_table_id": ""
+   "public_route_table_id": "".
+   "region": ""
 }
 ```
 
