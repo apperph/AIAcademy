@@ -24,8 +24,6 @@ Before starting this lab, please ensure you have:
 
 This configuration permits **inbound SSH connections** from any IP address globally. 
 
-*It's important to note that this is not considered a secure practice in real-world scenarios. We're using this approach for illustrative purposes only.*
-
 Obtain the **public IP address** of the bastion host and establish an SSH connection to it.
 
 ![](https://sb-next-prod-image-bucket.s3.ap-southeast-1.amazonaws.com/public/CAMP/Labs2025/Session1/Lab2/image-3.png)
