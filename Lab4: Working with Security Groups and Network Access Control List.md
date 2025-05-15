@@ -194,7 +194,6 @@ Please copy the following JSON to the textbox and fill in the required AWS resou
 {
    "bastion_instance_id": "",
    "appserver_instance_id": "",
-   "key_pair_name": "",
    "bastion_security_group_id": "",
    "appserver_security_group_id": "",
    "private_nacl_id": "",
